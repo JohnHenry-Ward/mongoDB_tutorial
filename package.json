@@ -1,0 +1,23 @@
+{
+  "name": "mongodb_tutorial",
+  "version": "1.0.0",
+  "description": "I am following along [this](https://www.youtube.com/watch?v=2QQGWYe7IDU&ab_channel=TraversyMedia) tutorial to learn MongoDB!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnHenry-Ward/mongoDB_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnHenry-Ward/mongoDB_tutorial/issues"
+  },
+  "homepage": "https://github.com/JohnHenry-Ward/mongoDB_tutorial#readme",
+  "dependencies": {
+    "mongodb": "^4.4.1"
+  }
+}
